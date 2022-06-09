@@ -1,0 +1,26 @@
+{
+    "tokens": {
+        "token1": "",
+        "token2": "",
+        "token3": ""
+    },
+    "StreamingDefault": "Streaming Presence",
+    "PlayingDefault": "Playing Presence",
+    "WatchingDefault": "Watching Presence",
+    "ListeningDefault": "Listening Presence",
+    "animated_status": {
+        "interval": "5",
+        "messages": {
+            "1": "BetterProfile",
+            "2": "Coded by $ Yøni ⁶⁹ 🚬#0004",
+            "3": "https://github.com/LinkYoni/Discord-BetterProfile",
+            "4": ""
+        },
+        "emojis": {
+            "1": "😎",
+            "2": "💻",
+            "3": "🔎",
+            "4": ""
+        }
+    }
+}
