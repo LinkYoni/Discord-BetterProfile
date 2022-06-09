@@ -23,7 +23,7 @@ git clone https://github.com/LinkYoni/Discord-BetterProfile
 <p align="left"><img src="https://media.discordapp.net/attachments/966065872819073127/984438432589828096/unknown.png"</p>
 
 ```
-- Run the file and choose an account.
+- Run main.py and choose an account.
 ```
 
 <p align="left"><img src="https://media.discordapp.net/attachments/966065872819073127/984435757005557770/unknown.png"</p>
