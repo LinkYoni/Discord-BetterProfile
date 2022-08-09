@@ -32,4 +32,4 @@ git clone https://github.com/LinkYoni/Discord-BetterProfile
 - Choose one of the five options
 ```
 
-###### 🔧 | Do you need help? Contact me by Discord: ``$ Yøni ⁶⁹ 🚬#0004`` I'm in [LinkSquad Discord Server](https://discord.gg/linksquad)
+###### 🔧 | Do you need help? Contact me by Discord: ``$ Yøni 🚬#0005``
